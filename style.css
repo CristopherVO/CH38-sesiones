@@ -1,0 +1,13 @@
+/* Hoja de stilo personalizada */
+/*CSS: cascading style sheet*/
+
+/* Selector de etiqueta */
+body {
+    color:blueviolet;
+    background-color:darkslategray;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+main{
+    text-align: center;
+}
